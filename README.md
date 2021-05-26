@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### ✨Hi😄, I'm Jaison✨
 
-- ⚡ I love coding, gaming amd tech stuff.
+- ⚡ I love coding, gaming and tech stuff.
