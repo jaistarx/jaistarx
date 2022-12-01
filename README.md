@@ -1,10 +1,8 @@
-![1](https://user-images.githubusercontent.com/57367854/119669852-037e3600-be56-11eb-8efc-c332637accf3.gif)
-![2](https://user-images.githubusercontent.com/57367854/119669794-f6614700-be55-11eb-92b2-18f13b70cd80.gif)
-![3](https://user-images.githubusercontent.com/57367854/119669814-fa8d6480-be55-11eb-80cd-b09ef93a6382.gif)
-
-
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/57367854/205027919-2cf17822-63e1-4b38-bd62-baf0699371f1.gif)
 
+<!-- ![1](https://user-images.githubusercontent.com/57367854/119669852-037e3600-be56-11eb-8efc-c332637accf3.gif)
+![2](https://user-images.githubusercontent.com/57367854/119669794-f6614700-be55-11eb-92b2-18f13b70cd80.gif)
+![3](https://user-images.githubusercontent.com/57367854/119669814-fa8d6480-be55-11eb-80cd-b09ef93a6382.gif) -->
 
 ### ✨Hi😄, I'm Jaison✨
 
